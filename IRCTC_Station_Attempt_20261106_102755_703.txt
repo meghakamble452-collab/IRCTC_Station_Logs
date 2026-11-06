@@ -1,0 +1,24 @@
+﻿IRCTC STATION ATTEMPT DIAGNOSTIC
+Timestamp=2026-11-06 10:27:53.846
+Field=destination
+Station value deliberately omitted for privacy
+Chrome activated=True
+Matched ComboBox=ControlType.ComboBox | Name=To station | ID= | Bounds=33,273,446,65 | Focus=False
+Clicked=True at 128,306
+Focused after click=ControlType.Edit | Name=Type to search... | ID= | Bounds=74,297,391,34 | Focus=True
+Browser foreground=True
+Focused after typing=ControlType.Edit | Name=Type to search... | ID= | Bounds=74,297,356,34 | Focus=True
+Nearby UIA type=ControlType.ComboBox bounds=33,273,446,65
+Nearby UIA type=ControlType.Text bounds=74,279,17,19
+Nearby UIA type=ControlType.ListItem bounds=34,341,444,49
+Nearby UIA type=ControlType.ComboBox bounds=33,417,446,65
+Nearby UIA type=ControlType.Text bounds=71,430,40,19
+Nearby UIA type=ControlType.Text bounds=71,447,66,20
+Nearby UIA type=ControlType.Text bounds=456,442,12,13
+Nearby UIA type=ControlType.ComboBox bounds=33,489,446,65
+Nearby UIA type=ControlType.Text bounds=71,502,73,19
+Nearby UIA type=ControlType.Text bounds=71,519,39,20
+Nearby UIA type=ControlType.Text bounds=456,514,12,13
+Nearby candidate controls=11
+Matched suggestion clicked on attempt=1
+Success=True

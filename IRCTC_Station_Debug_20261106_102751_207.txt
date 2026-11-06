@@ -1,0 +1,32 @@
+﻿IRCTC STATION UI AUTOMATION DIAGNOSTIC
+Timestamp: 2026-11-06 10:27:51
+OS: Microsoft Windows NT 6.2.9200.0
+Process bitness: 64
+Note: Edit values and page text are intentionally omitted.
+Chrome activation: True
+Root type: ControlType.Window
+Root bounds: 0,0,516,788
+Focused type: ControlType.Document
+Focused bounds: 8,87,500,693
+Focused automation ID: RootWebArea
+Total UIA descendants: 110
+TYPE=ControlType.Pane | NAME=IRCTC – Official Indian Railway Catering & Tourism Corporation Portal - Google C... | ID= | RECT=8,0,500,780 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=8,0,500,780 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=8,0,500,780 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=371,1,137,39 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=8,0,500,780 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=8,40,500,46 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Edit | NAME=[redacted] | ID=view_1012 | RECT=166,51,117,24 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=291,51,120,24 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=8,86,500,694 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=8,87,500,693 | FOCUS=False | ENABLED=True
+TYPE=ControlType.ComboBox | NAME=From station | ID= | RECT=33,201,446,65 | FOCUS=False | ENABLED=True
+TYPE=ControlType.ComboBox | NAME=To station | ID= | RECT=33,273,446,65 | FOCUS=False | ENABLED=True
+TYPE=ControlType.ComboBox | NAME=Quota | ID= | RECT=33,417,446,65 | FOCUS=False | ENABLED=True
+TYPE=ControlType.ComboBox | NAME=Concession | ID= | RECT=33,489,446,65 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=8,0,363,41 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=14,0,28,41 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID=view_21 | RECT=36,0,256,41 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=36,0,256,41 | FOCUS=False | ENABLED=True
+TYPE=ControlType.Pane | NAME= | ID= | RECT=326,0,45,41 | FOCUS=False | ENABLED=True
+Visible candidate controls logged: 19

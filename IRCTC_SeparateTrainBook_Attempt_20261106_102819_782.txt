@@ -1,0 +1,9 @@
+﻿IRCTC SEPARATE BOOK 2026-11-06T10:28:15
+Train=22537; Class=3A
+STRICT BOOK MATCH train=22537 class=3A; unique match confirmed
+BOOK offscreen; requesting UIA scroll into view
+ScrollItemPattern.ScrollIntoView successful
+STRICT BOOK MATCH train=22537 class=3A; unique match confirmed
+UIA InvokePattern successful at depth=0
+BOOK invoked=True
+Success=True

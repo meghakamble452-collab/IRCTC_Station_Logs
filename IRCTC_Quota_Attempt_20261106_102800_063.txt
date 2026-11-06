@@ -1,0 +1,62 @@
+﻿IRCTC QUOTA ATTEMPT 2026-11-06T10:27:58
+Requested quota=TATKAL
+Strategy=visible UIA option, then guarded UP navigation; no wheel
+Quota bounds=33,417,446,65; window=0,0,516,788
+Opened via ExpandCollapsePattern
+--- Quota dropdown immediately after opening ---
+ControlType.Button | Name=Minimize | ID=view_1 | Rect=371,1,45,39 | Enabled=True
+ControlType.Button | Name=Maximize | ID=view_2 | Rect=416,1,46,39 | Enabled=True
+ControlType.Button | Name=Close | ID=view_4 | Rect=462,1,46,39 | Enabled=True
+ControlType.Button | Name=Reload | ID=view_1003 | Rect=86,46,34,34 | Enabled=True
+ControlType.Button | Name=View site information | ID=view_1011 | Rect=134,51,24,24 | Enabled=True
+ControlType.Edit | Name=Address and search bar | ID=view_1012 | Rect=166,51,117,24 | Enabled=True
+ControlType.Button | Name=Zoom: 80% | ID= | Rect=291,51,24,24 | Enabled=True
+ControlType.Button | Name=Install IRCTC Next Generation eTicketing System | ID= | Rect=323,51,24,24 | Enabled=True
+ControlType.Button | Name=Manage your passwords | ID= | Rect=355,51,24,24 | Enabled=True
+ControlType.Button | Name=Bookmark this tab | ID= | Rect=387,51,24,24 | Enabled=True
+ControlType.Button | Name=You | ID=view_1018 | Rect=432,46,34,34 | Enabled=True
+ControlType.Button | Name=Chrome | ID=view_1007 | Rect=468,46,34,34 | Enabled=True
+ControlType.Text | Name=Travel Advisory: Passengers are advised to check the latest train running status, platform information, and coach position before commencing their journey. | ID= | Rect=43,90,417,12 | Enabled=True
+ControlType.Button | Name=Expand travel advisory | ID= | Rect=466,87,20,20 | Enabled=True
+ControlType.Text | Name=06-11-2026 | 10:28:06 | ID= | Rect=154,108,115,13 | Enabled=True
+ControlType.Button | Name=A- | ID= | Rect=273,106,22,17 | Enabled=True
+ControlType.Button | Name=A | ID= | Rect=296,106,19,17 | Enabled=True
+ControlType.Button | Name=A+ | ID= | Rect=315,106,25,17 | Enabled=True
+ControlType.Button | Name=Toggle navigation | ID= | Rect=26,140,15,22 | Enabled=True
+ControlType.Button | Name=profile logo | ID= | Rect=460,138,26,26 | Enabled=True
+ControlType.ComboBox | Name=From station | ID= | Rect=33,201,446,65 | Enabled=True
+ControlType.Text | Name=From | ID= | Rect=71,214,34,19 | Enabled=True
+ControlType.Text | Name=BASTI - BST (BASTI) | ID= | Rect=71,231,134,20 | Enabled=True
+ControlType.Button | Name=Clear from station | ID= | Rect=445,222,23,23 | Enabled=True
+ControlType.ComboBox | Name=To station | ID= | Rect=33,273,446,65 | Enabled=True
+ControlType.Text | Name=To | ID= | Rect=71,286,16,19 | Enabled=True
+ControlType.Text | Name=LOKMANYA TILAK TERMI - LTT (MUMBAI) | ID= | Rect=71,303,286,20 | Enabled=True
+ControlType.Button | Name=Clear to station | ID= | Rect=445,294,23,23 | Enabled=True
+ControlType.Button | Name=Swap stations | ID= | Rect=226,259,36,29 | Enabled=True
+ControlType.Button | Name=Select travel date | ID= | Rect=33,345,446,65 | Enabled=True
+ControlType.ComboBox | Name=Quota | ID= | Rect=33,417,446,65 | Enabled=True
+ControlType.Text | Name=Quota | ID= | Rect=74,430,40,19 | Enabled=True
+ControlType.Text | Name=GENERAL | ID= | Rect=74,447,67,20 | Enabled=True
+ControlType.Text | Name= | ID= | Rect=453,442,12,13 | Enabled=True
+ControlType.ListItem | Name=GENERAL | ID= | Rect=34,485,257,35 | Enabled=True
+ControlType.ListItem | Name=LADIES | ID= | Rect=34,519,257,34 | Enabled=True
+ControlType.ListItem | Name=LOWER BERTH/SR.CITIZEN | ID= | Rect=34,552,257,35 | Enabled=True
+ControlType.ListItem | Name=PERSON WITH DISABILITY | ID= | Rect=34,586,257,35 | Enabled=True
+ControlType.ListItem | Name=DUTY PASS | ID= | Rect=34,620,257,35 | Enabled=True
+ControlType.ListItem | Name=TATKAL | ID= | Rect=34,654,257,35 | Enabled=True
+ControlType.ListItem | Name=PREMIUM TATKAL | ID= | Rect=34,688,257,34 | Enabled=True
+ControlType.ComboBox | Name=Concession | ID= | Rect=33,489,446,65 | Enabled=True
+ControlType.Text | Name=Concession | ID= | Rect=71,502,73,19 | Enabled=True
+ControlType.Text | Name=None | ID= | Rect=71,519,39,20 | Enabled=True
+ControlType.Text | Name= | ID= | Rect=456,514,12,13 | Enabled=True
+ControlType.Button | Name=Search Trains | ID= | Rect=33,561,446,42 | Enabled=True
+ControlType.Button | Name=Check PNR Status | ID= | Rect=33,623,446,48 | Enabled=True
+ControlType.Button | Name=Track Your Train | ID= | Rect=33,678,446,47 | Enabled=True
+ControlType.Button | Name=Tab search | ID= | Rect=14,6,28,28 | Enabled=True
+ControlType.Button | Name=Close | ID= | Rect=252,7,26,26 | Enabled=True
+ControlType.Button | Name=New Tab | ID= | Rect=286,0,28,41 | Enabled=True
+Controls inspected=51
+Found option=ControlType.ListItem | Name=TATKAL | ID= | Rect=34,654,257,35 | Enabled=True
+Selection action=True; current=ControlType.ComboBox | Name=Quota | ID= | Rect=33,417,446,65 | Enabled=True
+Quota displayed value verified=True
+Success=True

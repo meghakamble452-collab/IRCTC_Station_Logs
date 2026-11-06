@@ -1,0 +1,251 @@
+﻿IRCTC TRAIN CLASS AVAILABILITY 2026-11-06T10:28:00
+Train=22537; Quota=TATKAL; Class=3A
+Availability: Chrome maximized via Win32; mouse pointer unchanged
+Quota displayed=Quota Quota Tatkal  
+STRICT TRAIN BUTTON MATCH train=22537 trainY=469 buttonY=513 nextTrainY=607
+UIA InvokePattern successful at depth=0
+STEP 1 selected train=22537 Check Availability clicked=True
+--- After selected train Check Availability click ---
+ControlType.Button | Name=Minimize | ID=view_1 | Rect=1229,0,45,40 | Enabled=True
+ControlType.Button | Name=Restore | ID=view_3 | Rect=1274,0,46,40 | Enabled=True
+ControlType.Button | Name=Close | ID=view_4 | Rect=1320,0,46,40 | Enabled=True
+ControlType.Button | Name=Back | ID=view_1001 | Rect=0,46,40,34 | Enabled=True
+ControlType.Button | Name=Reload | ID=view_1003 | Rect=78,46,34,34 | Enabled=True
+ControlType.Button | Name=View site information | ID=view_1011 | Rect=126,51,24,24 | Enabled=True
+ControlType.Edit | Name=Address and search bar | ID=view_1012 | Rect=158,51,983,24 | Enabled=True
+ControlType.Button | Name=Zoom: 80% | ID= | Rect=1149,51,24,24 | Enabled=True
+ControlType.Button | Name=Install IRCTC Next Generation eTicketing System | ID= | Rect=1181,51,24,24 | Enabled=True
+ControlType.Button | Name=Manage your passwords | ID= | Rect=1213,51,24,24 | Enabled=True
+ControlType.Button | Name=Bookmark this tab | ID= | Rect=1245,51,24,24 | Enabled=True
+ControlType.Button | Name=You | ID=view_1018 | Rect=1290,46,34,34 | Enabled=True
+ControlType.Button | Name=Chrome | ID=view_1007 | Rect=1326,46,40,34 | Enabled=True
+ControlType.Text | Name=Travel Advisory: Passengers are advised to check the latest train running status, platform information, and coach position before commencing their journey. | ID= | Rect=114,94,818,12 | Enabled=True
+ControlType.Text | Name=06-11-2026 | 10:28:09 | ID= | Rect=1062,94,116,13 | Enabled=True
+ControlType.Button | Name=A- | ID= | Rect=1181,92,23,17 | Enabled=True
+ControlType.Button | Name=A | ID= | Rect=1204,92,19,17 | Enabled=True
+ControlType.Button | Name=A+ | ID= | Rect=1224,92,25,17 | Enabled=True
+ControlType.Button | Name=TRAINS arrow | ID= | Rect=473,133,97,35 | Enabled=True
+ControlType.Button | Name=MEALS arrow | ID= | Rect=569,133,94,35 | Enabled=True
+ControlType.Button | Name=LOYALTY arrow | ID= | Rect=662,133,106,35 | Enabled=True
+ControlType.Button | Name=E-WALLET arrow | ID= | Rect=767,133,115,35 | Enabled=True
+ControlType.Button | Name=profile logo rubi4500 arrow | ID= | Rect=1171,133,107,34 | Enabled=True
+ControlType.Button | Name=Back | ID= | Rect=172,202,60,33 | Enabled=True
+ControlType.ComboBox | Name=From station | ID= | Rect=248,198,156,41 | Enabled=True
+ControlType.Text | Name=From | ID= | Rect=278,204,24,13 | Enabled=True
+ControlType.Text | Name=BASTI - BST (BASTI) | ID= | Rect=278,216,77,15 | Enabled=True
+ControlType.Button | Name=Clear to station | ID= | Rect=372,206,23,24 | Enabled=True
+ControlType.Button | Name=Swap stations | ID= | Rect=398,206,24,24 | Enabled=True
+ControlType.ComboBox | Name=To station | ID= | Rect=418,198,152,41 | Enabled=True
+ControlType.Text | Name=To | ID= | Rect=447,204,12,13 | Enabled=True
+ControlType.Text | Name=LOKMANYA TILAK TERMI - LTT (MUMBAI) | ID= | Rect=447,216,76,15 | Enabled=True
+ControlType.Button | Name=Clear to station | ID= | Rect=538,206,23,24 | Enabled=True
+ControlType.Button | Name=Select travel date | ID= | Rect=584,198,153,41 | Enabled=True
+ControlType.ComboBox | Name=Quota | ID= | Rect=750,198,153,41 | Enabled=True
+ControlType.Text | Name=Quota | ID= | Rect=780,204,28,13 | Enabled=True
+ControlType.Text | Name=Tatkal | ID= | Rect=780,216,35,15 | Enabled=True
+ControlType.Text | Name= | ID= | Rect=884,212,10,10 | Enabled=True
+ControlType.ComboBox | Name=Concession | ID= | Rect=916,198,153,41 | Enabled=True
+ControlType.Text | Name=Concession | ID= | Rect=946,204,51,13 | Enabled=True
+ControlType.Text | Name=None | ID= | Rect=946,216,30,15 | Enabled=True
+ControlType.Text | Name= | ID= | Rect=1050,212,10,10 | Enabled=True
+ControlType.Button | Name= Update | ID= | Rect=1082,201,100,34 | Enabled=True
+ControlType.Button | Name=Previous date | ID= | Rect=105,262,23,24 | Enabled=True
+ControlType.Button | Name=Fri, 06 Nov 4 Train | ID= | Rect=131,252,192,44 | Enabled=True
+ControlType.Button | Name=Sat, 07 Nov 4 Train | ID= | Rect=328,252,192,44 | Enabled=True
+ControlType.Button | Name=Sun, 08 Nov 4 Train | ID= | Rect=525,252,192,44 | Enabled=True
+ControlType.Button | Name=Mon, 09 Nov 4 Train | ID= | Rect=722,252,192,44 | Enabled=True
+ControlType.Button | Name=Tue, 10 Nov 4 Train | ID= | Rect=920,252,192,44 | Enabled=True
+ControlType.Button | Name=Next date | ID= | Rect=1114,262,23,24 | Enabled=True
+ControlType.Button | Name=Sort & Filters | ID= | Rect=1155,258,111,32 | Enabled=True
+ControlType.Text | Name=01080 | ID= | Rect=113,331,34,16 | Enabled=True
+ControlType.Button | Name=Train Schedule | ID= | Rect=163,328,97,23 | Enabled=True
+ControlType.Button | Name=Track this Train | ID= | Rect=276,328,133,23 | Enabled=True
+ControlType.Text | Name=GKP CSMT SPECIAL | ID= | Rect=113,356,128,20 | Enabled=True
+ControlType.Text | Name=SL | ID= | Rect=122,390,12,14 | Enabled=True
+ControlType.Text | Name=3A | ID= | Rect=155,390,13,14 | Enabled=True
+ControlType.Text | Name=15:45 | ID= | Rect=486,348,42,21 | Enabled=True
+ControlType.Text | Name=Sat, 07 Nov | ID= | Rect=486,368,66,16 | Enabled=True
+ControlType.Text | Name=Basti (BST) | ID= | Rect=486,385,61,16 | Enabled=True
+ControlType.Text | Name=32h 55m | ID= | Rect=763,356,42,14 | Enabled=True
+ControlType.Text | Name=+2 Days | ID= | Rect=764,382,40,14 | Enabled=True
+ControlType.Text | Name=00:40 | ID= | Rect=945,348,42,21 | Enabled=True
+ControlType.Text | Name=Mon, 09 Nov | ID= | Rect=945,368,73,16 | Enabled=True
+ControlType.Text | Name=C Shivaji Mah T (CSMT) | ID= | Rect=945,385,128,16 | Enabled=True
+ControlType.Text | Name=M | ID= | Rect=1134,348,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1152,348,8,16 | Enabled=True
+ControlType.Text | Name=W | ID= | Rect=1166,348,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1184,348,8,16 | Enabled=True
+ControlType.Text | Name=F | ID= | Rect=1200,348,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1216,348,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1232,348,8,16 | Enabled=True
+ControlType.Button | Name=Check Availability | ID=T_01080 | Rect=1128,375,120,29 | Enabled=True
+ControlType.Text | Name=22537 | ID= | Rect=113,469,34,16 | Enabled=True
+ControlType.Button | Name=Train Schedule | ID= | Rect=163,466,97,23 | Enabled=True
+ControlType.Button | Name=Track this Train | ID= | Rect=276,466,133,23 | Enabled=True
+ControlType.Text | Name=KUSHINAGAR EXP | ID= | Rect=113,494,120,20 | Enabled=True
+ControlType.Text | Name=SL | ID= | Rect=122,528,12,14 | Enabled=True
+ControlType.Text | Name=3A | ID= | Rect=155,528,13,14 | Enabled=True
+ControlType.Text | Name=2A | ID= | Rect=189,528,14,14 | Enabled=True
+ControlType.Text | Name=1A | ID= | Rect=224,528,14,14 | Enabled=True
+ControlType.Text | Name=18:38 | ID= | Rect=486,486,42,21 | Enabled=True
+ControlType.Text | Name=Sat, 07 Nov | ID= | Rect=486,506,66,15 | Enabled=True
+ControlType.Text | Name=Basti (BST) | ID= | Rect=486,523,61,16 | Enabled=True
+ControlType.Text | Name=29h 42m | ID= | Rect=761,494,42,13 | Enabled=True
+ControlType.Text | Name=+2 Days | ID= | Rect=762,520,40,14 | Enabled=True
+ControlType.Text | Name=00:20 | ID= | Rect=941,478,41,21 | Enabled=True
+ControlType.Text | Name=Mon, 09 Nov | ID= | Rect=941,498,73,15 | Enabled=True
+ControlType.Text | Name=Lokmanya Tilak Termi (LTT) | ID= | Rect=941,515,125,32 | Enabled=True
+ControlType.Text | Name=M | ID= | Rect=1132,486,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1150,486,8,16 | Enabled=True
+ControlType.Text | Name=W | ID= | Rect=1164,486,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1182,486,8,16 | Enabled=True
+ControlType.Text | Name=F | ID= | Rect=1198,486,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1214,486,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1230,486,8,16 | Enabled=True
+ControlType.Button | Name=Refresh Availability | ID=T_22537 | Rect=1122,513,127,29 | Enabled=True
+ControlType.Text | Name=Available Classes | ID= | Rect=133,595,97,16 | Enabled=True
+ControlType.Text | Name=19038 | ID= | Rect=113,700,34,16 | Enabled=True
+ControlType.Button | Name=Train Schedule | ID= | Rect=163,697,97,23 | Enabled=True
+ControlType.Button | Name=Track this Train | ID= | Rect=276,697,133,23 | Enabled=True
+ControlType.Text | Name=AVADH EXPRESS | ID= | Rect=113,725,110,20 | Enabled=True
+ControlType.Text | Name=18:48 | ID= | Rect=486,717,42,21 | Enabled=True
+ControlType.Text | Name=33h 17m | ID= | Rect=763,724,42,14 | Enabled=True
+ControlType.Text | Name=04:05 | ID= | Rect=945,709,42,21 | Enabled=True
+ControlType.Text | Name=M | ID= | Rect=1134,717,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1152,717,8,16 | Enabled=True
+ControlType.Text | Name=W | ID= | Rect=1166,717,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1184,717,8,16 | Enabled=True
+ControlType.Text | Name=F | ID= | Rect=1200,717,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1216,717,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1232,717,8,16 | Enabled=True
+ControlType.Button | Name=Tab search | ID= | Rect=6,6,28,28 | Enabled=True
+ControlType.Button | Name=Close | ID= | Rect=244,7,26,26 | Enabled=True
+ControlType.Button | Name=New Tab | ID= | Rect=278,0,28,41 | Enabled=True
+Controls inspected=115
+STEP 2 class heading/action not found for selected train; attempt=1
+ScrollItemPattern.ScrollIntoView successful
+STEP 2 class heading/action not found for selected train; attempt=2
+--- Expanded class panel missing ---
+ControlType.Button | Name=Minimize | ID=view_1 | Rect=1229,0,45,40 | Enabled=True
+ControlType.Button | Name=Restore | ID=view_3 | Rect=1274,0,46,40 | Enabled=True
+ControlType.Button | Name=Close | ID=view_4 | Rect=1320,0,46,40 | Enabled=True
+ControlType.Button | Name=Back | ID=view_1001 | Rect=0,46,40,34 | Enabled=True
+ControlType.Button | Name=Reload | ID=view_1003 | Rect=78,46,34,34 | Enabled=True
+ControlType.Button | Name=View site information | ID=view_1011 | Rect=126,51,24,24 | Enabled=True
+ControlType.Edit | Name=Address and search bar | ID=view_1012 | Rect=158,51,983,24 | Enabled=True
+ControlType.Button | Name=Zoom: 80% | ID= | Rect=1149,51,24,24 | Enabled=True
+ControlType.Button | Name=Install IRCTC Next Generation eTicketing System | ID= | Rect=1181,51,24,24 | Enabled=True
+ControlType.Button | Name=Manage your passwords | ID= | Rect=1213,51,24,24 | Enabled=True
+ControlType.Button | Name=Bookmark this tab | ID= | Rect=1245,51,24,24 | Enabled=True
+ControlType.Button | Name=You | ID=view_1018 | Rect=1290,46,34,34 | Enabled=True
+ControlType.Button | Name=Chrome | ID=view_1007 | Rect=1326,46,40,34 | Enabled=True
+ControlType.Text | Name=Travel Advisory: Passengers are advised to check the latest train running status, platform information, and coach position before commencing their journey. | ID= | Rect=114,94,818,12 | Enabled=True
+ControlType.Text | Name=06-11-2026 | 10:28:11 | ID= | Rect=1063,94,115,13 | Enabled=True
+ControlType.Button | Name=A- | ID= | Rect=1181,92,23,17 | Enabled=True
+ControlType.Button | Name=A | ID= | Rect=1204,92,19,17 | Enabled=True
+ControlType.Button | Name=A+ | ID= | Rect=1224,92,25,17 | Enabled=True
+ControlType.Button | Name=TRAINS arrow | ID= | Rect=473,133,97,35 | Enabled=True
+ControlType.Button | Name=MEALS arrow | ID= | Rect=569,133,94,35 | Enabled=True
+ControlType.Button | Name=LOYALTY arrow | ID= | Rect=662,133,106,35 | Enabled=True
+ControlType.Button | Name=E-WALLET arrow | ID= | Rect=767,133,115,35 | Enabled=True
+ControlType.Button | Name=profile logo rubi4500 arrow | ID= | Rect=1171,133,107,34 | Enabled=True
+ControlType.Button | Name=Back | ID= | Rect=172,202,60,33 | Enabled=True
+ControlType.ComboBox | Name=From station | ID= | Rect=248,198,156,41 | Enabled=True
+ControlType.Text | Name=From | ID= | Rect=278,204,24,13 | Enabled=True
+ControlType.Text | Name=BASTI - BST (BASTI) | ID= | Rect=278,216,77,15 | Enabled=True
+ControlType.Button | Name=Clear to station | ID= | Rect=372,206,23,24 | Enabled=True
+ControlType.Button | Name=Swap stations | ID= | Rect=398,206,24,24 | Enabled=True
+ControlType.ComboBox | Name=To station | ID= | Rect=418,198,152,41 | Enabled=True
+ControlType.Text | Name=To | ID= | Rect=447,204,12,13 | Enabled=True
+ControlType.Text | Name=LOKMANYA TILAK TERMI - LTT (MUMBAI) | ID= | Rect=447,216,76,15 | Enabled=True
+ControlType.Button | Name=Clear to station | ID= | Rect=538,206,23,24 | Enabled=True
+ControlType.Button | Name=Select travel date | ID= | Rect=584,198,153,41 | Enabled=True
+ControlType.ComboBox | Name=Quota | ID= | Rect=750,198,153,41 | Enabled=True
+ControlType.Text | Name=Quota | ID= | Rect=780,204,28,13 | Enabled=True
+ControlType.Text | Name=Tatkal | ID= | Rect=780,216,35,15 | Enabled=True
+ControlType.Text | Name= | ID= | Rect=884,212,10,10 | Enabled=True
+ControlType.ComboBox | Name=Concession | ID= | Rect=916,198,153,41 | Enabled=True
+ControlType.Text | Name=Concession | ID= | Rect=946,204,51,13 | Enabled=True
+ControlType.Text | Name=None | ID= | Rect=946,216,30,15 | Enabled=True
+ControlType.Text | Name= | ID= | Rect=1050,212,10,10 | Enabled=True
+ControlType.Button | Name= Update | ID= | Rect=1082,201,100,34 | Enabled=True
+ControlType.Button | Name=Previous date | ID= | Rect=105,262,23,24 | Enabled=True
+ControlType.Button | Name=Fri, 06 Nov 4 Train | ID= | Rect=131,252,192,44 | Enabled=True
+ControlType.Button | Name=Sat, 07 Nov 4 Train | ID= | Rect=328,252,192,44 | Enabled=True
+ControlType.Button | Name=Sun, 08 Nov 4 Train | ID= | Rect=525,252,192,44 | Enabled=True
+ControlType.Button | Name=Mon, 09 Nov 4 Train | ID= | Rect=722,252,192,44 | Enabled=True
+ControlType.Button | Name=Tue, 10 Nov 4 Train | ID= | Rect=920,252,192,44 | Enabled=True
+ControlType.Button | Name=Next date | ID= | Rect=1114,262,23,24 | Enabled=True
+ControlType.Button | Name=Sort & Filters | ID= | Rect=1155,258,111,32 | Enabled=True
+ControlType.Text | Name=01080 | ID= | Rect=113,331,34,16 | Enabled=True
+ControlType.Button | Name=Train Schedule | ID= | Rect=163,328,97,23 | Enabled=True
+ControlType.Button | Name=Track this Train | ID= | Rect=276,328,133,23 | Enabled=True
+ControlType.Text | Name=GKP CSMT SPECIAL | ID= | Rect=113,356,128,20 | Enabled=True
+ControlType.Text | Name=SL | ID= | Rect=122,390,12,14 | Enabled=True
+ControlType.Text | Name=3A | ID= | Rect=155,390,13,14 | Enabled=True
+ControlType.Text | Name=15:45 | ID= | Rect=486,348,42,21 | Enabled=True
+ControlType.Text | Name=Sat, 07 Nov | ID= | Rect=486,368,66,16 | Enabled=True
+ControlType.Text | Name=Basti (BST) | ID= | Rect=486,385,61,16 | Enabled=True
+ControlType.Text | Name=32h 55m | ID= | Rect=763,356,42,14 | Enabled=True
+ControlType.Text | Name=+2 Days | ID= | Rect=764,382,40,14 | Enabled=True
+ControlType.Text | Name=00:40 | ID= | Rect=945,348,42,21 | Enabled=True
+ControlType.Text | Name=Mon, 09 Nov | ID= | Rect=945,368,73,16 | Enabled=True
+ControlType.Text | Name=C Shivaji Mah T (CSMT) | ID= | Rect=945,385,128,16 | Enabled=True
+ControlType.Text | Name=M | ID= | Rect=1134,348,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1152,348,8,16 | Enabled=True
+ControlType.Text | Name=W | ID= | Rect=1166,348,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1184,348,8,16 | Enabled=True
+ControlType.Text | Name=F | ID= | Rect=1200,348,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1216,348,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1232,348,8,16 | Enabled=True
+ControlType.Button | Name=Check Availability | ID=T_01080 | Rect=1128,375,120,29 | Enabled=True
+ControlType.Text | Name=22537 | ID= | Rect=113,469,34,16 | Enabled=True
+ControlType.Button | Name=Train Schedule | ID= | Rect=163,466,97,23 | Enabled=True
+ControlType.Button | Name=Track this Train | ID= | Rect=276,466,133,23 | Enabled=True
+ControlType.Text | Name=KUSHINAGAR EXP | ID= | Rect=113,494,120,20 | Enabled=True
+ControlType.Text | Name=SL | ID= | Rect=122,528,12,14 | Enabled=True
+ControlType.Text | Name=3A | ID= | Rect=155,528,13,14 | Enabled=True
+ControlType.Text | Name=2A | ID= | Rect=189,528,14,14 | Enabled=True
+ControlType.Text | Name=1A | ID= | Rect=224,528,14,14 | Enabled=True
+ControlType.Text | Name=18:38 | ID= | Rect=486,486,42,21 | Enabled=True
+ControlType.Text | Name=Sat, 07 Nov | ID= | Rect=486,506,66,15 | Enabled=True
+ControlType.Text | Name=Basti (BST) | ID= | Rect=486,523,61,16 | Enabled=True
+ControlType.Text | Name=29h 42m | ID= | Rect=761,494,42,13 | Enabled=True
+ControlType.Text | Name=+2 Days | ID= | Rect=762,520,40,14 | Enabled=True
+ControlType.Text | Name=00:20 | ID= | Rect=941,478,41,21 | Enabled=True
+ControlType.Text | Name=Mon, 09 Nov | ID= | Rect=941,498,73,15 | Enabled=True
+ControlType.Text | Name=Lokmanya Tilak Termi (LTT) | ID= | Rect=941,515,125,32 | Enabled=True
+ControlType.Text | Name=M | ID= | Rect=1132,486,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1150,486,8,16 | Enabled=True
+ControlType.Text | Name=W | ID= | Rect=1164,486,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1182,486,8,16 | Enabled=True
+ControlType.Text | Name=F | ID= | Rect=1198,486,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1214,486,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1230,486,8,16 | Enabled=True
+ControlType.Button | Name=Refresh Availability | ID=T_22537 | Rect=1122,513,127,29 | Enabled=True
+ControlType.Text | Name=Available Classes | ID= | Rect=133,595,97,16 | Enabled=True
+ControlType.Text | Name=19038 | ID= | Rect=113,700,34,16 | Enabled=True
+ControlType.Button | Name=Train Schedule | ID= | Rect=163,697,97,23 | Enabled=True
+ControlType.Button | Name=Track this Train | ID= | Rect=276,697,133,23 | Enabled=True
+ControlType.Text | Name=AVADH EXPRESS | ID= | Rect=113,725,110,20 | Enabled=True
+ControlType.Text | Name=18:48 | ID= | Rect=486,717,42,21 | Enabled=True
+ControlType.Text | Name=33h 17m | ID= | Rect=763,724,42,14 | Enabled=True
+ControlType.Text | Name=04:05 | ID= | Rect=945,709,42,21 | Enabled=True
+ControlType.Text | Name=M | ID= | Rect=1134,717,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1152,717,8,16 | Enabled=True
+ControlType.Text | Name=W | ID= | Rect=1166,717,12,16 | Enabled=True
+ControlType.Text | Name=T | ID= | Rect=1184,717,8,16 | Enabled=True
+ControlType.Text | Name=F | ID= | Rect=1200,717,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1216,717,8,16 | Enabled=True
+ControlType.Text | Name=S | ID= | Rect=1232,717,8,16 | Enabled=True
+ControlType.Button | Name=Tab search | ID= | Rect=6,6,28,28 | Enabled=True
+ControlType.Button | Name=Close | ID= | Rect=244,7,26,26 | Enabled=True
+ControlType.Button | Name=New Tab | ID= | Rect=278,0,28,41 | Enabled=True
+Controls inspected=115
+ScrollItemPattern.ScrollIntoView successful
+Class status paired with (3A): AVAILABLE-0064
+REFRESH ARROW train=22537 class=3A heading=615,362,71,15 target=ControlType.Button | Refresh Availability 3A | 787,365,23,13
+UIA InvokePattern successful at depth=0
+STEP 3 class 3A Refresh Availability arrow clicked=True
+FARE VERIFIED train=22537 class=3A fare=₹2,280
+Success=True
